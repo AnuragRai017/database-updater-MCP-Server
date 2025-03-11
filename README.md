@@ -2,6 +2,10 @@
 
 A Model Context Protocol server for updating databases from CSV and Excel files.
 
+<a href="https://glama.ai/mcp/servers/yqdoq32xyf">
+  <img width="380" height="200" src="https://glama.ai/mcp/servers/yqdoq32xyf/badge" alt="Database Updater Server MCP server" />
+</a>
+
 ## Features
 
 ### Tools
