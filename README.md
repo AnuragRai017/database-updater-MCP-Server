@@ -1,4 +1,5 @@
 # database-updater MCP Server
+[![database-updater-MCP-Server MCP server](https://glama.ai/mcp/servers/AnuragRai017/database-updater-MCP-Server/badges/score.svg)](https://glama.ai/mcp/servers/AnuragRai017/database-updater-MCP-Server)
 
 A Model Context Protocol server for updating databases from CSV and Excel files.
 
